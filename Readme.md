@@ -1,3 +1,6 @@
+Forked and modified for Gradle base.
+
+---
 ## Spring Boot, PostgreSQL, JPA, Hibernate REST API Demo
 
 ## Tutorial
